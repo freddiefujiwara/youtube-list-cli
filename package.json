@@ -1,17 +1,17 @@
 {
-  "name": "youtube-playlist-cli",
+  "name": "youtube-list-cli",
   "version": "0.0.1",
   "description": "Cli for youtube-playlist",
   "main": "index.js",
   "bin": {
-    "youtue-playlist-cli": "index.js"
+    "youtue-list-cli": "index.js"
   },
   "scripts": {
     "test": "node index.js -l 3 'https://www.youtube.com/watch?v=AZrzAWeNa0M&list=PLKeSkVQhqoOr89YTeXoAlHzJXBJO_FuxY&index=9'"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://ithub.com/freddiefujiwara/youtube-playlist-cli.git"
+    "url": "git+https://ithub.com/freddiefujiwara/youtube-list-cli.git"
   },
   "files": [
     "index.js"
@@ -19,9 +19,9 @@
   "author": "Fumikazu Fujiwara <npm@ze.gs> (http://freddiefujiwara.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freddiefujiwara/youtube-playlist-cli/issues"
+    "url": "https://github.com/freddiefujiwara/youtube-list-cli/issues"
   },
-  "homepage": "https://github.com/freddiefujiwara/youtube-playlist-cli#readme",
+  "homepage": "https://github.com/freddiefujiwara/youtube-list-cli#readme",
   "dependencies": {
     "commander": "^5.0.0",
     "youtube-playlist": "^1.0.2"
