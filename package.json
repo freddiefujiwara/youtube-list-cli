@@ -1,10 +1,10 @@
 {
   "name": "youtube-list-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Cli for youtube-playlist",
   "main": "index.js",
   "bin": {
-    "youtue-list-cli": "index.js"
+    "youtube-list-cli": "index.js"
   },
   "scripts": {
     "test": "node index.js -l 3 'https://www.youtube.com/watch?v=AZrzAWeNa0M&list=PLKeSkVQhqoOr89YTeXoAlHzJXBJO_FuxY&index=9'"
