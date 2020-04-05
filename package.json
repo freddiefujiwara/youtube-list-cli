@@ -7,7 +7,7 @@
     "youtue-playlist-cli": "index.js"
   },
   "scripts": {
-    "test": "node index.js 'https://www.youtube.com/watch?v=W7x76ws5jV8'"
+    "test": "node index.js -l 3 'https://www.youtube.com/watch?v=AZrzAWeNa0M&list=PLKeSkVQhqoOr89YTeXoAlHzJXBJO_FuxY&index=9'"
   },
   "repository": {
     "type": "git",
