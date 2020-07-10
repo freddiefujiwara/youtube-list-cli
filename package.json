@@ -1,6 +1,6 @@
 {
   "name": "youtube-list-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Cli for youtube-playlist",
   "main": "index.js",
   "bin": {
@@ -24,6 +24,6 @@
   "homepage": "https://github.com/freddiefujiwara/youtube-list-cli#readme",
   "dependencies": {
     "commander": "^5.0.0",
-    "youtube-playlist": "^1.0.2"
+    "youtube-playlist": "^1.0.3"
   }
 }
